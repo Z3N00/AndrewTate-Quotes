@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_row.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\66101170bc83853b34fcae01409d2b5d\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\browser_actions_context_menu_page.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\66101170bc83853b34fcae01409d2b5d\\browser-1.0.0\\res\\layout\\browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Flutter-Motivational-Quotes-App\\build\\google_mobile_ads\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\kartik.gupta04\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

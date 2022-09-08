@@ -3,6 +3,6 @@
 3    package="com.mranuran.clipboardmanager" >
 4
 5    <uses-sdk android:minSdkVersion="16" />
-5-->/Users/developer/flutter/.pub-cache/hosted/pub.dartlang.org/clipboard_manager-0.0.4/android/src/main/AndroidManifest.xml
+5-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\clipboard_manager-0.0.4\android\src\main\AndroidManifest.xml
 6
 7</manifest>

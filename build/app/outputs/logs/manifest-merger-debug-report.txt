@@ -1,160 +1,659 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-MERGED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-MERGED from [:clipboard_manager] /Users/apple/Desktop/benn/build/clipboard_manager/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider] /Users/apple/Desktop/benn/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9d2ac2ae8a44d697ec01e22fb5b300b2/core-1.3.1/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:clipboard_manager] D:\Flutter-Motivational-Quotes-App\build\clipboard_manager\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:path_provider] D:\Flutter-Motivational-Quotes-App\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\3c906f1167c991f8d26f99c824237e1a\jetified-play-services-ads-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:17:1-67:12
+MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\abe6211301721f26c81916ed7098b884\jetified-play-services-ads-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8153af2d62f55e7aff4f3e270f168f9f\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b1ded2ab344c1248654875dc70ebe2d5\jetified-play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c0dcb9670bd55e0a8304215ce9fef0db\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\901f2cc353e48e130352b032b04f28a1\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\66101170bc83853b34fcae01409d2b5d\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f67a098865f65bce4861f38e5b7d3f1b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f48a4efd536c3f688ae4585294152326\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\0c1acf1a22491565f664a84faa8fdcda\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\627b1a478fb3a47175bfa78ea61ecb83\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f6886f612e9817326f4f408c1489ce06\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9344e812e9436e7dbce7c9baf11f7fbd\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\927e02a815d4d92c90cc85ee5b1311b2\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\61ef02e8f0f19ac7089cb3c73160753b\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c43f95590ad8d07b90158a2201706b0c\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\2d1706100f6b4d1d65d9197776051e34\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fef37646fd19b6d9d69a8b62bf688400\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\a9c1e7dac34bcee99aa5a66930665286\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\53007b1b67d39cbaab28f5e7912b2517\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\cf2c99aa287de2f08f087dc1237c8793\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\81577b20856de3173b99a652d8df052c\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:2:5-31
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:1-41:12
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:3:4-40:19
-MERGED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-17:19
-MERGED from [androidx.core:core:1.3.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9d2ac2ae8a44d697ec01e22fb5b300b2/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9d2ac2ae8a44d697ec01e22fb5b300b2/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:3:4-43:19
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-13:19
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-13:19
+MERGED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:46:5-65:19
+MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\abe6211301721f26c81916ed7098b884\jetified-play-services-ads-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\abe6211301721f26c81916ed7098b884\jetified-play-services-ads-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b1ded2ab344c1248654875dc70ebe2d5\jetified-play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b1ded2ab344c1248654875dc70ebe2d5\jetified-play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c0dcb9670bd55e0a8304215ce9fef0db\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c0dcb9670bd55e0a8304215ce9fef0db\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\901f2cc353e48e130352b032b04f28a1\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\901f2cc353e48e130352b032b04f28a1\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9d2ac2ae8a44d697ec01e22fb5b300b2/core-1.3.1/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:4:9-29
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:4:9-29
 	android:icon
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:5:9-43
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:5:9-43
 activity#com.example.benn.MainActivity
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:6:9-34:20
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:6:9-34:20
 	android:launchMode
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:8:13-43
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:8:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:11:13-47
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:11:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:12:13-55
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:12:13-55
 	android:configChanges
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:10:13-163
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:10:13-163
 	android:theme
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:9:13-47
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:9:13-47
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:7:13-41
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:7:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:17:13-20:17
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:17:13-20:17
 	android:resource
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:19:15-52
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:19:15-52
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:18:15-70
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:18:15-70
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:26:13-29:17
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:26:13-29:17
 	android:resource
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:28:15-61
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:28:15-61
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:27:15-79
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:27:15-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:30:13-33:29
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:31:17-68
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:31:17-68
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:31:25-66
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:32:17-76
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:32:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:37:9-39:33
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:37:9-39:33
 	android:value
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:39:13-30
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:39:13-30
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml:38:13-44
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:38:13-44
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:40:9-42:68
+	android:value
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:42:12-66
+	android:name
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml:41:12-68
 uses-sdk
-INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-MERGED from [:clipboard_manager] /Users/apple/Desktop/benn/build/clipboard_manager/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:clipboard_manager] /Users/apple/Desktop/benn/build/clipboard_manager/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] /Users/apple/Desktop/benn/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider] /Users/apple/Desktop/benn/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2fd9120a6da4df3dbabdd40f6a2d8995/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eb26273f8f7192460456ce62b9bdf9ef/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d9536c14ffde0b7289f12ba6def6bfa4/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/68dbf8ea01a1dbd974fc87b5753550f0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bc28a09d8d2212ffd5788fe6c1853326/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9d2ac2ae8a44d697ec01e22fb5b300b2/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9d2ac2ae8a44d697ec01e22fb5b300b2/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ca6b214160bd0909b103aa12202ef51c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2271d874344878e62b9a8e309af0c39d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fb333fb43575d8a3b51161295454427f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cad25976877a6ae855ef6821534f58a1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/96aee308bccd03bc62c306516c23a410/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5f606c30f064eed94124828de37fadc0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/15792e6083b2b5b5a7ffa285d47daa24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+MERGED from [:clipboard_manager] D:\Flutter-Motivational-Quotes-App\build\clipboard_manager\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:clipboard_manager] D:\Flutter-Motivational-Quotes-App\build\clipboard_manager\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\Flutter-Motivational-Quotes-App\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\Flutter-Motivational-Quotes-App\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\3c906f1167c991f8d26f99c824237e1a\jetified-play-services-ads-21.0.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\3c906f1167c991f8d26f99c824237e1a\jetified-play-services-ads-21.0.0\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\abe6211301721f26c81916ed7098b884\jetified-play-services-ads-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\abe6211301721f26c81916ed7098b884\jetified-play-services-ads-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8153af2d62f55e7aff4f3e270f168f9f\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8153af2d62f55e7aff4f3e270f168f9f\jetified-user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b1ded2ab344c1248654875dc70ebe2d5\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b1ded2ab344c1248654875dc70ebe2d5\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c0dcb9670bd55e0a8304215ce9fef0db\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c0dcb9670bd55e0a8304215ce9fef0db\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\901f2cc353e48e130352b032b04f28a1\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\901f2cc353e48e130352b032b04f28a1\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\66101170bc83853b34fcae01409d2b5d\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\66101170bc83853b34fcae01409d2b5d\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f67a098865f65bce4861f38e5b7d3f1b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f67a098865f65bce4861f38e5b7d3f1b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f48a4efd536c3f688ae4585294152326\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f48a4efd536c3f688ae4585294152326\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\0c1acf1a22491565f664a84faa8fdcda\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\0c1acf1a22491565f664a84faa8fdcda\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\627b1a478fb3a47175bfa78ea61ecb83\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\627b1a478fb3a47175bfa78ea61ecb83\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f6886f612e9817326f4f408c1489ce06\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\f6886f612e9817326f4f408c1489ce06\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9344e812e9436e7dbce7c9baf11f7fbd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9344e812e9436e7dbce7c9baf11f7fbd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\927e02a815d4d92c90cc85ee5b1311b2\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\927e02a815d4d92c90cc85ee5b1311b2\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\61ef02e8f0f19ac7089cb3c73160753b\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\61ef02e8f0f19ac7089cb3c73160753b\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c43f95590ad8d07b90158a2201706b0c\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\c43f95590ad8d07b90158a2201706b0c\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\2d1706100f6b4d1d65d9197776051e34\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\2d1706100f6b4d1d65d9197776051e34\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fef37646fd19b6d9d69a8b62bf688400\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fef37646fd19b6d9d69a8b62bf688400\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\a9c1e7dac34bcee99aa5a66930665286\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\a9c1e7dac34bcee99aa5a66930665286\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\53007b1b67d39cbaab28f5e7912b2517\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\53007b1b67d39cbaab28f5e7912b2517\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\cf2c99aa287de2f08f087dc1237c8793\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\cf2c99aa287de2f08f087dc1237c8793\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\81577b20856de3173b99a652d8df052c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\81577b20856de3173b99a652d8df052c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\3c906f1167c991f8d26f99c824237e1a\jetified-play-services-ads-21.0.0\AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/apple/Desktop/benn/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from D:\Flutter-Motivational-Quotes-App\android\app\src\debug\AndroidManifest.xml:6:22-64
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-12:36
+	android:value
+		ADDED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-33
+	android:name
+		ADDED from [:google_mobile_ads] D:\Flutter-Motivational-Quotes-App\build\google_mobile_ads\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-61
 provider#io.flutter.plugins.share.ShareFileProvider
-ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+		ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+		ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
 	android:exported
-		ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+		ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-70
+		ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:68
+ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:68
 	android:resource
-		ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-65
+		ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-65
 	android:name
-		ADDED from [:share] /Users/apple/Desktop/benn/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+		ADDED from [:share] D:\Flutter-Motivational-Quotes-App\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5b28ea65995a10537a2c988d76489f89\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:24:22-76
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\21bad9ea8303a192e6809fdd6199f870\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:25:22-76
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:28:5-44:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:31:9-37:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:32:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:34:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:36:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:36:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:40:9-42:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:41:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:41:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:49:9-53:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:52:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:51:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:53:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:50:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:55:9-59:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:57:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:58:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:56:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:61:9-64:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:63:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\7e9f2e1eefae852cad1f5a7326f295d2\jetified-play-services-ads-lite-21.0.0\AndroidManifest.xml:62:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\b71673d69072e6218f65bafd30d07529\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\570dbd9f8765756ccdb8750eae739dca\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\65c8b9154009d1931a3db50d7627d9e4\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\1a700d90560db5b83be244a9e0368578\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\fe874bc08108b4385ecbba01f969818b\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kartik.gupta04\.gradle\caches\transforms-2\files-2.1\5a9abbd9b8f0f835c4fddb4cf7ae6694\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

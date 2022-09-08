@@ -31,6 +31,7 @@ dependencies:
   screenshot: ^0.2.0
   share: ^0.6.5+2
   toast: ^0.1.5
+  google_mobile_ads: ^2.0.0
 
 dev_dependencies:
   flutter_test:
@@ -40,6 +41,7 @@ flutter:
   uses-material-design: true
 
   assets:
+    - img/
     - img/offline.jpg
 
   fonts:
